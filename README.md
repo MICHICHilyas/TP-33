@@ -90,7 +90,18 @@ minikube service spring-app-service
 - ✅ Health probes (liveness/readiness)
 - ✅ Rolling updates
 
-## 👨‍💻 Auteur
+## � Captures d'écran
+
+### Kubernetes Dashboard
+![K8s Dashboard](image.png)
+
+### Pods Running
+![Pods](image-1.png)
+
+### Services
+![Services](image-2.png)
+
+## �👨‍💻 Auteur
 
 **Ilyas MICHICH**
 
